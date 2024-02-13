@@ -344,7 +344,7 @@
 @media only screen and (max-width:600px){
     .container{
         
-		width: 270%;
+		width: 100%;
 		
 		align-items: center;
 
@@ -357,9 +357,9 @@
 		align-items: center;
 	}
 	#join-us{
-		width: 270%;
+		width: 100%;
 	}
 	.copyright{
-		width: 270%;
+		width: 100%;
 	}
 }
